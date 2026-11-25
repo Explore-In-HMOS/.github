@@ -18,7 +18,7 @@ Every project is a standalone repository you can clone, open in DevEco Studio an
 |---|---|---|
 | ⌚ **Sample applications**: complete apps such as fitness trackers, games, health and productivity tools | Smart Wearable | ArkTS |
 | 🛠️ **How-to projects**: one focused topic each, from sensors, maps and notifications to security and UI components | Smart Wearable | ArkTS |
-| ⌚ **Sportwatch apps and how-tos**: repositories whose name starts with `sportwatch-` | Lite Wearable | JavaScript |
+| ⌚ **SportWatch apps and how-tos**: repositories whose name starts with `sportwatch-` | SportWatch (Lite Wearable) | JavaScript |
 | 📦 **Libraries**: reusable ArkTS components | Smart Wearable | ArkTS |
 | 📱 **Companion and cross-platform apps**: phone-side apps that talk to the watch | Android, iOS, cross-platform | Kotlin, Swift, Flutter, React Native |
 
@@ -26,7 +26,7 @@ The full, categorized list of 550+ projects lives in **[hmos-index](https://gith
 
 ### Useful links
 
-- 📖 **[HMOS User Guides](https://github.com/Explore-In-HMOS/hmos-user-guides)**: in-depth guides such as the Health Service Kit and the Lite Wearable technical guide
+- 📖 **[HMOS User Guides](https://github.com/Explore-In-HMOS/hmos-user-guides)**: in-depth guides such as the Health Service Kit and the SportWatch (Lite Wearable) technical guide
 - 🧩 **[Adapter Project](https://github.com/Explore-In-HMOS/adapter-project)**: one API for both platforms and a Lite to Smart Wearable converter
 - 🖼️ **[Mockup Generator](https://explore-in-hmos.github.io/mockup-generator/)**: wraps your screenshots in watch device frames
 - 🤖 **[Wearable Samples skill](https://github.com/Explore-In-HMOS/hmos-index/blob/main/skill/hmos-wearable-samples/SKILL.md)**: makes the catalog searchable from an AI coding assistant
